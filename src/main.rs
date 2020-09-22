@@ -2,6 +2,7 @@ mod component;
 mod entity;
 mod plugin;
 mod system;
+mod utils;
 
 use bevy::prelude::*;
 use plugin::InputTransform;
