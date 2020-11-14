@@ -1,5 +1,2 @@
-mod cube;
-mod piece;
-
-pub use cube::Cube;
-pub use piece::Piece;
+pub struct Cube;
+pub struct Piece;
